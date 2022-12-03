@@ -18,7 +18,7 @@ O site desenvolvido consta com um sistema de cadastro de usuários e login, onde
 
 O Back-End do projeto foi hospedado na Azure. Caso não esteja funcionando, você pode acessá-lo no seguinte repositório:
 
-[github.com/elizeumagalhaes/meet-api](https://github.com/elizeumagalhaes/meet-api)
+[github.com/elizeumagalhaes/api-bank](https://github.com/elizeumagalhaes/api-bank)
 
 Para rodar o Back-End, precisamos criar um ambiente virtual. Utilize o comando:
 
