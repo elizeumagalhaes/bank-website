@@ -4,6 +4,10 @@ Esse projeto foi desenvolvido como formativa para a matéria de Programação We
 
 ## Como rodar o projeto?
 
+Primeiro, precisamos baixar as dependências do projeto, para isso use o comando:
+
+### `npm install`
+
 Você pode rodá-lo com o comando:
 
 ### `npm start`
